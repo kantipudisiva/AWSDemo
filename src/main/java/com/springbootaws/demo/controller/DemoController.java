@@ -16,4 +16,5 @@ public class DemoController {
 	public String demo() {
 		return "Hello "+developer_name + "appliction running successfully";
 	}
+	
 }
